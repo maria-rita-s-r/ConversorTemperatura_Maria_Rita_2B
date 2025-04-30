@@ -8,6 +8,6 @@ public class ConversorTemperatura {
         
         Temperatura c2 = new Temperatura(100);
         
-        System.out.println("TEmp em K " + c2.converterCpraK());
+        System.out.println("Temp em K " + c2.converterCpraK());
     }
 }
